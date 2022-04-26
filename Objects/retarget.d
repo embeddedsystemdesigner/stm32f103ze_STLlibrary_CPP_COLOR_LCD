@@ -1,0 +1,12 @@
+.\objects\retarget.o: Retarget.c
+.\objects\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\rt_misc.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\retarget.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\GUI.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\GUI_ConfDefaults.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\GUIConf.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\GUI_Type.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\LCD.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\Global.h
+.\objects\retarget.o: C:\Keil_v5\ARM\Segger\emWin\Include\GUI_Version.h

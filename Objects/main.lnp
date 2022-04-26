@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+".\objects\startup_stm32f10x_hd.o"
+".\objects\system_stm32f10x.o"
+".\objects\usart.o"
+".\objects\main.o"
+".\objects\retarget.o"
+".\objects\stm32f10x_gpio.o"
+".\objects\stm32f10x_rcc.o"
+".\objects\stm32f10x_usart.o"
+".\objects\stm32f10x_flash.o"
+".\objects\stm32f10x_fsmc.o"
+".\objects\gui_x.o"
+".\objects\gui_x_touch_analog.o"
+".\objects\gui_x_touch_storestate.o"
+".\objects\guiconf.o"
+".\objects\lcdconf.o"
+".\objects\tftlcd.o"
+".\objects\touch.o"
+"C:\Keil_v5\ARM\Segger\emWin\Lib\GUI_CM3.lib"
+--strict --scatter ".\Objects\main.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\main.map" -o .\Objects\main.axf
